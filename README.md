@@ -1,59 +1,64 @@
-# 👋 Hi there, I'm Ayan Habib!
+# 👋 Hello, I'm Ayan Habib
 
-🎓 Web & Mobile App Development Graduate from **Saylani Mass IT Training**  
-🌍 Based in **Karachi, Pakistan**  
-📧 Contact me: ayanh7455@gmail.com | 📱 03132179328  
-🗣️ Languages: English, Urdu
+🎓 Graduate of Web & Mobile App Development from Saylani Mass IT Training  
+📍 Based in Karachi, Pakistan  
+📧 Email: ayanh7455@gmail.com | 📱 0313-2179328  
+🗣️ Languages: English, Urdu  
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Web Developer** with a strong foundation in **HTML**, **CSS**, and **JavaScript**. I've developed multiple web applications focusing on UI/UX, performance, and clean code. I enjoy learning new technologies and building projects that solve real-world problems.
+I'm a passionate **Frontend Web Developer** with hands-on experience in building responsive, interactive, and user-friendly web applications. I specialize in **HTML, CSS, JavaScript**, and focus heavily on **clean code**, **modern UI**, and **performance optimization**. I love solving real-world problems with code and continuously improving my skills by building projects and learning new technologies.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-💻 HTML5, CSS3, JavaScript (ES6+)
+- **Languages & Frameworks:**  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-🧠 LocalStorage, Firebase
+- **Tools & Platforms:**  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+  ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
-🌐 Responsive Design
-
-🎨 Dark & Modern UI Design
-
-🔧 Tools: VS Code, Git, GitHub, Chrome DevTools
-
----
-
-## 📌 Projects
-
-Here are some of my featured projects:
-
-- ✅ **Boycotted Product Checker**
-- 🛒 **Shopping Cart with Filter Sidebar**
-- 🔍 **Search App**
-- 📝 **To-Do App**
-- 👤 **GitHub Profile Fetcher**
-- 🔐 **Password Generator**
-- 📰 **Post App**
-- ⏱️ **Stopwatch**
-- 💰 **Expense Tracker**
-- 💱 **Currency Converter**
-
-> Explore all my repositories for more!
+- **Concepts:**  
+  🔹 Responsive Design  
+  🔹 Dark & Modern UI  
+  🔹 LocalStorage  
+  🔹 Firebase Authentication & Firestore
 
 ---
 
-## 📫 Let's Connect!
+## 📌 Featured Projects
+
+| Project                        | Description                                        |
+|-------------------------------|----------------------------------------------------|
+| ✅ **Boycotted Product Checker** | A tool to check if a product is boycotted         |
+| 🛒 **Shopping Cart with Filter** | Product filtering and cart using LocalStorage     |
+| 🔍 **Search App**                | Real-time search functionality with minimal UI    |
+| 📝 **To-Do App**                 | Task manager with edit/delete and persistent data |
+| 👤 **GitHub Profile Fetcher**   | Fetch GitHub user data using API                  |
+| 🔐 **Password Generator**       | Customizable secure password generator            |
+| 📰 **Post App**                 | Basic CRUD post application                       |
+| ⏱️ **Stopwatch**                | Start/Stop/Reset stopwatch with time display      |
+| 💰 **Expense Tracker**          | Track income and expenses with balance summary    |
+| 💱 **Currency Converter**       | Real-time currency conversion with clean UI       |
+
+> 🗂️ _Explore all my repositories for more exciting projects!_
+
+---
+
+## 📬 Let's Connect
 
 - [GitHub Profile](https://github.com/ayanhabib67)
--- [LinkedIn](https://www.linkedin.com/in/ayan-habib-5ba315345/)
-
-
+- [LinkedIn](https://www.linkedin.com/in/ayan-habib-5ba315345/)
 
 ---
 
-Thanks for visiting my profile! 🚀
-
+_Thanks for visiting! Feel free to explore, fork, or contribute to any of my projects._ 🚀
