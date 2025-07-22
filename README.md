@@ -49,7 +49,8 @@ Here are some of my featured projects:
 ## 📫 Let's Connect!
 
 - [GitHub Profile](https://github.com/ayanhabib67)
-- [LinkedIn]([https://linkedin.com/in/your-link-if-any](https://www.linkedin.com/in/ayan-habib-5ba315345/)) 
+-- [LinkedIn](https://www.linkedin.com/in/ayan-habib-5ba315345/)
+
 
 
 ---
