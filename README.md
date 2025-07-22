@@ -17,27 +17,13 @@ I love creating real-world solutions through code and constantly push myself to 
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</p>
-
-### 🧠 Core Concepts
-- 🔹 Responsive Design  
-- 🔹 Dark & Modern UI  
-- 🔹 LocalStorage  
-- 🔹 Firebase Auth & Firestore  
 
 ---
 
@@ -60,11 +46,22 @@ I love creating real-world solutions through code and constantly push myself to 
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Let's Connect
 
-- 🔗 [GitHub](https://github.com/ayanhabib67)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayan-habib-5ba315345/)
+<p align="left">
+  <a href="mailto:ayanh7455@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayan-habib-5ba315345/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/ayanhabib67" target="_blank">
+    <img src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-_Thanks for stopping by! Feel free to explore, fork, and contribute._ 🚀
+> 💬 _"Code is like humor. When you have to explain it, it’s bad."_ – **Cory House**
+
+
