@@ -1,59 +1,145 @@
-# 👋 Hey there, I'm Ayan Habib
+<h1 align="center">Hi 👋, I'm Ayan Habib</h1>
+<h3 align="center">Full Stack Developer | Next.js & MERN Stack</h3>
 
-🎓 Web & Mobile App Development Graduate — Saylani Mass IT Training  
-📍 Karachi, Pakistan  
-📧 Email: [ayanh7455@gmail.com](mailto:ayanh7455@gmail.com) | 📱 Phone: 0313 2179328  
-🗣️ Languages: English, Urdu  
+<p align="center">
+  📍 Karachi, Pakistan <br/>
+  📧 ayanh7455@gmail.com | 📱 +92 313 2179328 <br/>
+  🔗 <a href="https://github.com/ayanhabib67">GitHub</a> |
+  🔗 <a href="https://www.linkedin.com/in/ayan-habib-5ba315345/">LinkedIn</a>
+</p>
 
 ---
 
-## 🚀 About Me  
-I'm a **Frontend Web Developer** with hands-on experience building dynamic and user-friendly web applications. I specialize in **HTML5, CSS3, JavaScript (ES6+)**, and I have a strong eye for detail and design.  
-I love creating modern, responsive UIs and bringing ideas to life with clean, maintainable code.
+## 🚀 Professional Summary
 
-Currently exploring:
-- 🔥 Firebase Authentication & Firestore  
-- ⚙️ TypeScript & API Integration  
-- 🎯 Real-world Project Solutions
+Full Stack Developer with **1+ year of experience** building production-ready web applications, e-commerce platforms, and internal management systems.
+
+Specialized in **Next.js, React, REST API integration, and performance optimization** with a strong focus on scalable and real-world business solutions.
+
+✔ Delivered 5+ client projects  
+✔ Built live e-commerce platforms  
+✔ Contributed to large-scale internal management systems  
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages & Frameworks:**  
-  `HTML5` • `CSS3` • `JavaScript ES6+`  
-- **Databases & Tools:**  
-  `Firebase` • `LocalStorage`  
-- **UI/UX:**  
-  `Responsive Design` • `Dark & Modern UI`  
-- **Developer Tools:**  
-  `VS Code` • `Git & GitHub` • `Chrome DevTools`
+### 💻 Frontend
+- Next.js  
+- React.js  
+- JavaScript (ES6+)  
+- TypeScript  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- Material UI  
+- Ant Design  
+
+### 🖥 Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- Firebase  
+- RESTful APIs  
+- Authentication & Role-Based Access Control  
+
+### 🛠 Tools
+- Git & GitHub  
+- Postman  
+- Chrome DevTools  
+- Agile Methodology  
+- SEO Optimization  
+- CI/CD  
 
 ---
 
-## 📌 Featured Projects
+## 💼 Professional Experience
 
-| Project                         | Description                                       |
-|-------------------------------|---------------------------------------------------|
-| ✅ **Boycotted Product Checker** | Check products against boycott list in real-time |
-| 🛒 **Shopping Cart**            | Filter sidebar, cart functionality using JS      |
-| 🔍 **Search App**               | Instant search with intuitive UI                 |
-| 📝 **To-Do App**                | Manage daily tasks with localStorage             |
-| 👤 **GitHub Profile Fetcher**   | View GitHub user info using public API           |
-| 🔐 **Password Generator**       | Secure password creation tool                    |
-| 📰 **Post App**                 | Create, display & manage posts dynamically       |
-| ⏱️ **Stopwatch**                | Simple but functional stopwatch in JS            |
-| 💰 **Expense Tracker**          | Track income and expenses with charts            |
-| 💱 **Currency Converter**       | Convert currencies with a sleek dark UI          |
+### 🚀 Full Stack Developer — Sapphire Pixel (Remote)  
+**Dec 2025 – Present**
 
-🔗 Explore all projects here: [My Repositories »](https://github.com/ayanhabib67?tab=repositories)
+- Delivered 5+ client-facing applications  
+- Built SEO-friendly, high-performance websites  
+- Integrated REST APIs & third-party services  
+- Optimized performance for better UX  
 
 ---
 
-## 🤝 Let's Connect
+### 🏢 Full Stack Developer Intern — Saylani Tech (Karachi)  
+**Nov 2025 – Jan 2026**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayan-habib-5ba315345/)
-- 🧑‍💻 [GitHub](https://github.com/ayanhabib67)
+- Developed Welfare Management System  
+- Worked in 68-member development team  
+- Automated workflows (40% efficiency improvement)  
+- Built secure dashboards with role-based access  
 
-Thanks for visiting! 😊  
+---
 
+## 🌟 Live Projects
+
+### 🛒 Lali Wala Baby Shop  
+🔗 https://www.laliwalaonline.com  
+Production-level e-commerce with admin dashboard  
+Tech: Next.js, Node.js, MongoDB, Tailwind CSS  
+
+---
+
+### 🏢 Sapphire Pixel Agency Portfolio  
+🔗 https://www.sapphirepixel.com  
+SEO-optimized responsive agency website  
+Tech: Next.js, Tailwind CSS  
+
+---
+
+### 👗 Aanchal Store  
+🔗 https://aanchal-store.vercel.app  
+Full-stack e-commerce with Firebase authentication  
+Tech: Next.js, Firebase  
+
+---
+
+### 🏥 Saylani Welfare Management System  
+Internal operational management system  
+Tech: Next.js, Node.js, Express.js, MongoDB  
+
+---
+
+## 🔥 JavaScript Projects
+
+- Boycotted Product Checker  
+- Shopping Cart System  
+- Expense Tracker  
+- Currency Converter  
+- Search App  
+- To-Do App  
+- Password Generator  
+- GitHub Profile Fetcher  
+- Post App  
+- Stopwatch  
+
+Explore all repositories here:  
+👉 https://github.com/ayanhabib67?tab=repositories  
+
+---
+
+## 🎓 Education
+
+**Web & Mobile App Development Graduate**  
+Saylani Mass IT Training  
+
+**Matriculation (SSC)**  
+Nasra School — Karachi  
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Next.js Architecture  
+- Scalable Backend Systems  
+- System Design  
+- Performance Optimization  
+
+---
+
+<h3 align="center">⚡ Open to Full Stack & Frontend Opportunities</h3>
+<h4 align="center">Let's build something amazing together 🚀</h4>
